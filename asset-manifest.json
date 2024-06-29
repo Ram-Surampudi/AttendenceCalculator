@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AttendenceCalculator/static/css/main.10f955a1.css",
+    "main.js": "/AttendenceCalculator/static/js/main.abb89602.js",
+    "static/js/471.2a6b3376.chunk.js": "/AttendenceCalculator/static/js/471.2a6b3376.chunk.js",
+    "static/js/523.97f5a529.chunk.js": "/AttendenceCalculator/static/js/523.97f5a529.chunk.js",
+    "static/js/707.d4006639.chunk.js": "/AttendenceCalculator/static/js/707.d4006639.chunk.js",
+    "static/js/971.21802d10.chunk.js": "/AttendenceCalculator/static/js/971.21802d10.chunk.js",
+    "static/js/453.410a3cd8.chunk.js": "/AttendenceCalculator/static/js/453.410a3cd8.chunk.js",
+    "index.html": "/AttendenceCalculator/index.html",
+    "main.10f955a1.css.map": "/AttendenceCalculator/static/css/main.10f955a1.css.map",
+    "main.abb89602.js.map": "/AttendenceCalculator/static/js/main.abb89602.js.map",
+    "471.2a6b3376.chunk.js.map": "/AttendenceCalculator/static/js/471.2a6b3376.chunk.js.map",
+    "523.97f5a529.chunk.js.map": "/AttendenceCalculator/static/js/523.97f5a529.chunk.js.map",
+    "707.d4006639.chunk.js.map": "/AttendenceCalculator/static/js/707.d4006639.chunk.js.map",
+    "971.21802d10.chunk.js.map": "/AttendenceCalculator/static/js/971.21802d10.chunk.js.map",
+    "453.410a3cd8.chunk.js.map": "/AttendenceCalculator/static/js/453.410a3cd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10f955a1.css",
+    "static/js/main.abb89602.js"
+  ]
+}
